@@ -10,6 +10,7 @@
 - Create branches
 
     `git checkout -b <name>` - creates new branch and makes a new copy of the original branch
+    `git checkout <name>` - switches branches
 
 - Merge branches
 - Resolve Merge Conflicts
