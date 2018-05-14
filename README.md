@@ -8,6 +8,11 @@
     3. Allows you to review, refine, debug code before commiting changes (specifically to master)
     4. Allows you to break up the work into smaller chunks and assign work easier
 - Create branches
+
+    `git checkout -b <name>` - creates new branch and makes a new copy of the original branch
+    `git checkout <name>` - switches branches
+    `git branch -d <name>` - deletes branch
+
 - Merge branches
 - Resolve Merge Conflicts
 
