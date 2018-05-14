@@ -13,6 +13,7 @@
     `git checkout <name>` - switches branches
 
 - Merge branches
+    `git merge <name>` - merges current branch into branch listed
 - Resolve Merge Conflicts
 
 * Feature Branching
