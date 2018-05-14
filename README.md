@@ -15,6 +15,7 @@
 
 - Merge branches
 - Resolve Merge Conflicts
+    1. Merge conflicts are a pain!
 
 * Feature Branching
 * Task
