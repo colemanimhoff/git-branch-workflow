@@ -11,6 +11,7 @@
 
     `git checkout -b <name>` - creates new branch and makes a new copy of the original branch
     `git checkout <name>` - switches branches
+    `git branch -d <name>` - deletes branch
 
 - Merge branches
 - Resolve Merge Conflicts
