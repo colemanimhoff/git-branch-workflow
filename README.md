@@ -16,6 +16,7 @@
 - Merge branches
 - Resolve Merge Conflicts
     1. Merge conflicts are a pain!
+    2. Fix merge conflicts in your text editor
 
 * Feature Branching
 * Task
